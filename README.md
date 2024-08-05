@@ -1,11 +1,11 @@
 # Materialist Theme
 
-![Main preview.](https://github.com/hendraanggrian/materialist-theme/raw/assets/preview_main.png)
+![Main preview.](https://github.com/hanggrian/materialist-theme/raw/assets/preview_main.png)
 
 Modernist is a theme that appears in GitHub Pages, this fork applies [Material3](https://m3.material.io/components/cards/guidelines/)
 design principles.
 
-Demo the theme on [repository website](http://hendraanggrian.com/materialist-theme/).
+[Theme demo](http://hanggrian.com/materialist-theme/)
 
 ## Usage
 
@@ -18,5 +18,5 @@ The raw source code can be used to replicate the page by editing:
 
 ### Gradle Plugin
 
-Part of [Pages Gradle Plugin](https://github.com/hendraanggrian/pages-gradle-plugin/),
+Part of [Pages Gradle Plugin](https://github.com/hanggrian/pages-gradle-plugin/),
 a plugin that generates a website with this theme from existing markdown files.
